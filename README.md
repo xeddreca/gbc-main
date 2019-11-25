@@ -2,7 +2,7 @@ Givebackcode main website
 
 #clone repo
 
-git clone http://github.com/xeddreca/gbc-main
+git clone http://github.com/xeddreca/gbc-main.git
 
 #build docker image
 
